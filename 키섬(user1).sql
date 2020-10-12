@@ -7,7 +7,6 @@ CREATE TABLE tbl_user(
     cm_birth date NOT NULL
 );
 
-DESC tbl_member;
 
 
 CREATE SEQUENCE seq_cisum
